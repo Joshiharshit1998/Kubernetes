@@ -1,2 +1,2 @@
 # Kubernetes
-This repo is a practical implementation of Kubernetes.
+This repo contains practical implementation of Kubernetes.
